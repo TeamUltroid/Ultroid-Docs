@@ -14,7 +14,7 @@ To Enable PM Permit go to your assistant bot (the bot you Made from botfather an
 * Click on `Settings`
 * Click on `Other Vars`
 * Click on `PM Permit`
-* Click on `Turn PMPermit On` , You can disable PMPermit by clicking on `Turn PMPermit Off`
+* Click on `Turn PMPermit On` , You can disable PM Permit by clicking on `Turn PMPermit Off`
 
 ### How to customize PM Permit ?
 
