@@ -1,0 +1,34 @@
+name: "Update Main Repo"
+
+on:
+  push:
+  workflow_dispatch:
+
+env:
+  GitHubMail: "newdev0@outlook.com"
+  GitHubName: "New-dev0"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+       - name: Checkout
+         uses: actions/checkout@v2
+       - name: "Set Git Configs & Secrets"
+         run: |
+           git config --global user.email ${GitHubMail}
+           git config --global user.name ${GitHubName}
+           git config --global credential.helper store
+           echo "https://${GitHubName}:${{ secrets.GH_TOKEN }}@github.com" > ~/.git-credentials
+       - name: "cloning repo"
+         continue-on-error: true
+         run: |
+           git clone https://github.com/TeamUltroid/Ultroid-docs from-repo
+           git clone https://github.com/TeamUltroid/TeamUltroid.github.io to-repo
+           rm -rf from-repo/.git*
+           rm -rf to-repo/docs/*
+           mv from-repo/* to-repo/docs/
+           cd to-repo
+           git add .
+           git commit -m "Auto: Update Repo"
+           git push -q https://${{ secrets.GH_TOKEN }}@github.com/TeamUltroid/TeamUltroid.github.io HEAD:main
