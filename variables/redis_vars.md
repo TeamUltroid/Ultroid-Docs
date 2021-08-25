@@ -95,10 +95,14 @@ Stores the default language for Ultroid.
 - Gujarati - `gu`
 - Hindi - `hi`
 - Indonesian - `id`
+- Italian - `it`
+- Kannada - `ka`
 - Malayalam - `ml`
 - Marathi - `mr`
 - Odia - `od`
+- Persian - `fa`
 - Russian - `ru`
 - Sinhala - `si`
+- Spanish - `es`
 - Tamil - `tl`
 - Turkish - `tr`
