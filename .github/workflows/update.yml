@@ -2,6 +2,7 @@ name: "Update Main Repo"
 
 on:
   push:
+    branches: [master]
   workflow_dispatch:
 
 env:
