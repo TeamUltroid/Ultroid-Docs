@@ -31,10 +31,9 @@ Ultroid warns you when you try to install/execute dangerous stuff (people nowada
 
 ### 6. Multi-Language Support
 
-Currently We Have 13 Language Support , Will add More Soon 😁😁.
+Currently We Have 19 Language Support , More will be added Soon 😁.
 
 ### 7. Some Cool Features
-
 
 ### 8. py-Ultroid
 
