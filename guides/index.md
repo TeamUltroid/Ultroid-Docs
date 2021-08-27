@@ -47,3 +47,21 @@ From here you can delete media/update media/update text.
 `.setredis PMLOGGER True/False`
 
 • Done Your PMLOGGER is set 😉
+
+
+### How To Setup `RMBG_API`?
+
+This is API for Removing Background through Ultroid, Steps are as Follows: 
+* Go to ur Assistant Bot
+* Send: `/start`
+* Click: `Settings`
+* Click: `API Keys`
+* Click: `Remove.bg API`
+* Send: `API`
+
+Get Your API  👉 [From Here](https://remove.bg/api)
+
+#### Shortcut:
+`.setredis RMBG_API <API>`
+
+• Done Your Remove.bg API is set 😉
