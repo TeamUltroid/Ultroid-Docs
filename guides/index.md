@@ -36,14 +36,14 @@ From here you can delete media/update media/update text.
 ### How To Setup `PMLOGGER`?
 
 1) Go to ur Assistant Bot
-2) Send: /start
+2) Send: `/start`
 3) Click: `Settings`
 4) Click: `PmPermit`
 5) Click: `Customize PmPermit`
 6) Click: `PMLOGGER`
 7) Click: `PMLOGGER ON/OFF`
 
-#Shortcut:
-.setredis PMLOGGER True/False
+#### Shortcut:
+`.setredis PMLOGGER True/False`
 
-Done Your PMLOGGER is set 😉
+• Done Your PMLOGGER is set 😉
