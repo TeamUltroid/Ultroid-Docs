@@ -80,3 +80,18 @@ To Change `INLINE_PIC`, go to your Assistant bot.
 • Done Your `INLINE_PIC` is set 😉
 
 ---
+
+### How to Change `HANDLER`?
+
+HANDLER is the Symbol which is Trigger/Suffix to use bot like `.`
+To Change `HNDLR`, go to your Assistant bot.
+- Send: `/start`
+- Click: `Settings` >> `Features` >> `HANDLER`
+- Send: Handler (Symbol)
+
+#### Shortcut:
+- `.setredis HNDLR <handler>`
+
+• Done Your `HNDLR` is set 😉
+
+---
