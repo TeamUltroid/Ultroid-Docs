@@ -67,7 +67,7 @@ To setup `RMBG_API`, go to your Asistant bot.
 
 ---
 
-### How to Change Inline Help Menu Media?
+### How to Change **Inline Help Menu Media**?
 
 To Change `INLINE_PIC`, go to your Assistant bot.
 - Send: `/start`
@@ -77,6 +77,6 @@ To Change `INLINE_PIC`, go to your Assistant bot.
 #### Shortcut:
 - `.setredis INLINE_PIC <Telegraph Link>`
 
-• Done Your PMLOGGER is set 😉
+• Done Your `INLINE_PIC` is set 😉
 
 ---
