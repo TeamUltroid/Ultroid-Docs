@@ -67,7 +67,7 @@ To setup `RMBG_API`, go to your Asistant bot.
 
 ---
 
-### How to Change **Inline Help Menu Media**?
+### How to Change Inline Help Menu Media?
 
 To Change `INLINE_PIC`, go to your Assistant bot.
 - Send: `/start`
