@@ -17,7 +17,7 @@ You can also disable PMPermit by clicking on `Turn PMPermit Off`
 
 ---
 
-### How to customize PM Permit ?
+### How to Customize `PM Permit` ?
 
 To customize PM Permit message/media, go to your assistant bot.
 - Send: `/start`
@@ -27,7 +27,7 @@ You can customize from Here
 
 ---
 
-### How to Customize `alive` message
+### How to Customize `ALIVE` message?
 
 To customize `alive`, go to your assistant bot (the bot you Made from botfather and using in ultroid) . 
 - Send: `/start`
