@@ -27,11 +27,11 @@ You can customize from Here
 
 ---
 
-### How to customize `alive` message
+### How to Customize `alive` message
 
 To customize `alive`, go to your assistant bot (the bot you Made from botfather and using in ultroid) . 
-1) Send: `/start`
-2) Click: `Settings` >> `Alive Customization`
+- Send: `/start`
+- Click: `Settings` >> `Alive Customization`
 
 From here you can delete media/update media/update text.
 
