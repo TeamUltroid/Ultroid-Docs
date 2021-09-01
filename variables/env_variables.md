@@ -14,7 +14,7 @@ Ultroid needs eight mandatory variables to run
 ### Obtaining API_ID & API_HASH
 
 1. Visit [my.telegram.org](https://my.telegram.org)
-2. Enter your phone number in [international format](https://telegram.org/faq#login-and-sms). Example : `+9199966XYYYY`
+2. Enter your phone number in [international format](https://telegram.org/faq#login-and-sms). Example : `+9199966XXXXX`
 3. Enter the web login code sent to you by Telegram in app.
 4. After successful sign in , Click on `API development tools`
 5. Fill `App Title` & `Short name` and create app.
