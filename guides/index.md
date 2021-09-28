@@ -7,28 +7,92 @@ slug: /guides
 
 ---
 
-### How to Enable/Disable PM Permit ?
+### How to Enable/Disable `PM Permit` ?
 
-To Enable PM Permit go to your assistant bot (the bot you Made from botfather and using in ultroid) . 
-* Start the bot
-* Click on `Settings`
-* Click on `Other Vars`
-* Click on `PM Permit`
-* Click on `Turn PMPermit On` , You can disable PMPermit by clicking on `Turn PMPermit Off`
+To Enable PM Permit, go to your Assistant bot (the bot you Made from botfather and using in ultroid). 
+- Send: `/start`
+- Click: `Settings` >> `Other Vars` >> `PM Permit` >> `Turn PMPermit On`
 
-### How to customize PM Permit ?
+You can also disable PMPermit by clicking on `Turn PMPermit Off`
 
-To customize PM Permit message/media simply start your assistant bot,
-* Click on `Settings`
-* Click on `PM Customization`
+---
+
+### How to Customize `PM Permit` ?
+
+To customize PM Permit message/media, go to your Assistant bot.
+- Send: `/start`
+- Click: `Settings` >> `PM Customization`
 
 You can customize from Here
 
-### How to customize `alive` message
+---
 
-To customize `alive` go to your assistant bot (the bot you Made from botfather and using in ultroid) . 
-* Start the bot
-* Click on `Settings`
-* Click on `Alive Customization`
+### How to Customize `ALIVE` message?
+
+To customize `alive`, go to your Assistant bot (the bot you Made from botfather and using in ultroid) . 
+- Send: `/start`
+- Click: `Settings` >> `Alive Customization`
 
 From here you can delete media/update media/update text.
+
+---
+
+### How To Setup `PMLOGGER`?
+
+To setup `PMLOGGER`, go to your Assistant bot.
+- Send: `/start`
+- Click: `Settings` >> `PmPermit` >> `Customize PmPermit` >> `PMLOGGER` >> `PMLOGGER ON/OFF`
+
+#### Shortcut:
+- `.setredis PMLOGGER True/False`
+
+• Done Your PMLOGGER is set 😉
+
+---
+
+### How To Setup `RMBG_API`?
+
+This is API for Removing Background through Ultroid, Steps are as Follows: 
+To setup `RMBG_API`, go to your Asistant bot.
+- Send: `/start`
+- Click: `Settings` >> `API Keys` >> `Remove.bg API`
+- Send: `API`
+
+- Get Your API  👉 [From Here](https://remove.bg/api)
+
+#### Shortcut:
+- `.setredis RMBG_API <API>`
+
+• Done Your `Remove.bg API` is set 😉
+
+---
+
+### How to Change Inline Help Menu Media?
+
+To Change `INLINE_PIC`, go to your Assistant bot.
+- Send: `/start`
+- Click: `Settings` >> `Features` >> `Inline Pic`
+- Send: Media (GIF/PIC)
+
+#### Shortcut:
+- `.setredis INLINE_PIC <Telegraph Link>`
+
+• Done Your `INLINE_PIC` is set 😉
+
+---
+
+### How to Change `Command Handler`?
+
+HNDLR is the Symbol which is Trigger/Suffix of your bot, like `.`
+
+To Change `HNDLR`, go to your Assistant bot.
+- Send: `/start`
+- Click: `Settings` >> `Features` >> `HANDLER`
+- Send: `Handler (Symbol)`
+
+#### Shortcut:
+- `.setredis HNDLR <handler>`
+
+• Done Your `HNDLR` is set 😉
+
+---
