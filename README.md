@@ -2,7 +2,7 @@
 - Ultroid-Docs are hosted at [ultroid.tech](https://ultroid.tech)
 - Ultroid Source Code is available at [TeamUltroid/Ultroid](https://GitHub.com/TeamUltroid/Ultroid)
 
-# ![Website](https://img.shields.io/website?down_color=red&down_message=Down&label=ultroid.tech%20%20%20%20%20&up_message=Online&url=https%3A%2F%2Fultroid.tech) ![GitHub labels](https://img.shields.io/github/labels/TeamUltroid/Ultroid-Docs/Help%20Wanted?color=black) ![GitHub forks](https://img.shields.io/github/forks/TeamUltroid/Ultroid-Docs)
+# [![Website](https://img.shields.io/website?down_color=red&down_message=Down&label=ultroid.tech%20%20%20%20%20&up_message=Online&url=https%3A%2F%2Fultroid.tech) ![GitHub labels](https://img.shields.io/github/labels/TeamUltroid/Ultroid-Docs/Help%20Wanted?color=black) ![GitHub forks](https://img.shields.io/github/forks/TeamUltroid/Ultroid-Docs)](#)
 
 ### Key Features to Include
 - About Ultroid and Deployment.
