@@ -28,6 +28,7 @@ jobs:
            git clone https://github.com/TeamUltroid/TeamUltroid.github.io to-repo
            rm -rf from-repo/.git*
            rm -rf to-repo/docs/*
+           rm -rf from-repo/README.md
            mv from-repo/* to-repo/docs/
            cd to-repo
            git add .

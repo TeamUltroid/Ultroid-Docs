@@ -3,7 +3,7 @@ id: env_variables
 title: Environmental Variables to run Ultroid.
 sidebar_label: ENV Variables
 ---
-Ultroid needs eight mandatory variables to run
+Ultroid needs five mandatory variables to run
 
 - `API_ID`
 - `API_HASH`
@@ -14,7 +14,7 @@ Ultroid needs eight mandatory variables to run
 ### Obtaining API_ID & API_HASH
 
 1. Visit [my.telegram.org](https://my.telegram.org)
-2. Enter your phone number in [international format](https://telegram.org/faq#login-and-sms). Example : `+9199966XYYYY`
+2. Enter your phone number in [international format](https://telegram.org/faq#login-and-sms). Example : `+9199966XXXXX`
 3. Enter the web login code sent to you by Telegram in app.
 4. After successful sign in , Click on `API development tools`
 5. Fill `App Title` & `Short name` and create app.
@@ -29,19 +29,19 @@ Or Use can use [@apiscrapperbot](https://t.me/apiscrapperbot).  (not recommended
 
 ### Obtaining SESSION
 
-There are three ways by which you can get your SESSION.
+There are below ways by which you can get your SESSION.
 
 1. Via terminal.
 `(. <($(which curl>/dev/null&&echo curl -Ls||echo wget -qO-) https://del.dog/ultroid))`
 Now follow the on-screen instructions.
 
 2. Via termux.
-`sh -c "$(curl -fsSL https://da.gd/termux-tel)"`
+`sh -c "$(curl -fsSL https://git.io/JqgsR)"`
 
 3. Via [repl.it](https://repl.it/@TeamUltroid/UltroidStringSession#main.py)
 
-4. Via bot.
-Use [@SessionStringBot](https://t.me/SessionStringBot). (not recommended, will die soon.)
+4. Via Telegram bot.
+Use [@SessionStringBot](https://t.me/SessionStringBot).
 
 5. For the ones who deployed locally.
 `bash sessiongen`
