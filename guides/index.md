@@ -79,6 +79,10 @@ To Change `INLINE_PIC`, go to your Assistant bot.
 
 • Done Your `INLINE_PIC` is set 😉
 
+:::note
+You can set `INLINE_PIC` to `False` to remove media in help menu.
+:::
+
 ---
 
 ### How to Change `Command Handler`?

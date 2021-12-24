@@ -1,4 +1,11 @@
-# Ultroid Supports Multiple Language.
+---
+id: languages
+title: Setting up Language
+sidebar_label: Languages
+slug: /languages
+---
+
+### Ultroid Supports Multiple Language.
 
 
 | Name | Langauge Code |
@@ -44,4 +51,4 @@
 
 ## Contributing
 - Want to add your language or do any fixes ?
-- >.[Click Here](../contributing/translate)
+- >.[Click Here](/docs/contributing/translate)
