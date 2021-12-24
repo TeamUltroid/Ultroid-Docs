@@ -16,8 +16,9 @@ To Add `VC_SESSION`, Firstly Go to ur Assistant Bot
 - Send: VC Session (2nd Account)
 - Restart your bot using `.restart`.
 
-#Note: Your VC Session should be of Another ID else it won't work..
-
+:::note
+Your VC Session should be of Another ID else you won't be able to hear from same account.
+:::
 
 #### Shortcut:
 - `.setredis VC_SESSION <session>`
