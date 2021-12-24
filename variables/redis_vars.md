@@ -87,23 +87,3 @@ Ultroid stores most of the Variables in Redis database. You can play with Redis 
 ### language
 
 Stores the default language for Ultroid.
-
-- Arabic - `ar`
-- Bengali - `bn`
-- Brazilian Portuguese - `pt-br`
-- Chinese - `cn`
-- English - `en` (default)
-- Gujarati - `gu`
-- Hindi - `hi`
-- Indonesian - `id`
-- Italian - `it`
-- Kannada - `ka`
-- Malayalam - `ml`
-- Marathi - `mr`
-- Odia - `od`
-- Persian - `fa`
-- Russian - `ru`
-- Sinhala - `si`
-- Spanish - `es`
-- Tamil - `tl`
-- Turkish - `tr`

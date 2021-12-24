@@ -48,5 +48,6 @@ Use `python -m pyUltroid` to start the bot.
 You will recieve a message in your `LOG_CHANNEL` if everything is done right!   
 
 :::note
-Use `python3 -m pyUltroid`, if you had used `pip3` before.   
+Use `python3 -m pyUltroid`, if you had used `pip3` before.
+You can also use `bash startup` to run Ultroid.   
 :::
