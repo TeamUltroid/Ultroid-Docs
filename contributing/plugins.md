@@ -1,11 +1,11 @@
 ---
 id: userplugins
-title: Make Your Plugins, use by all
-sidebar_label: guides
+title: sharing self plugins.
+sidebar_label: plugins
 slug: /plugins
 ---
 
-## If you have made any Good Plugin for Ultroid? and want to make it used by all?
+### If you have made any Good Plugin for Ultroid? and want to make it used by all?
  You can Give Your Plugins to Us by Following Ways..
 
 ### [@UltroidPlugins](https://t.me/UltroidPlugins)
