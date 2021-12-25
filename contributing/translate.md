@@ -1,7 +1,7 @@
 ---
 id: translate
 title: Translate Ultroid in Your Language
-sidebar_label: Contributing
+sidebar_label: Translate
 slug: /translate
 ---
 
