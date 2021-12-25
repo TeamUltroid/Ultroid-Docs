@@ -1,7 +1,7 @@
 ---
 id: vcguide
-title: VC Song Bot
-sidebar: VC Song Bot
+title: VC Bot
+sidebar: VC Bot
 slug: /vcbot
 ---
 
