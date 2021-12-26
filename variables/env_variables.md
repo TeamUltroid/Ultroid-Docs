@@ -25,7 +25,7 @@ Ultroid needs five mandatory variables to run
 
 ![api_id_and_api_hash](https://telegra.ph/file/6e1c7b54d547b2dc7419a.jpg)
 
-Or Use can use [@apiscrapperbot](https://t.me/apiscrapperbot).  (not recommended, will die soon.)
+Or Use can use [@apiscrapperbot](https://t.me/apiscrapperbot).  (running on free servers.)
 
 ### Obtaining SESSION
 
@@ -38,10 +38,10 @@ Now follow the on-screen instructions.
 2. Via termux.
 `sh -c "$(curl -fsSL https://git.io/JqgsR)"`
 
-3. Via [repl.it](https://repl.it/@TeamUltroid/UltroidStringSession#main.py)
+3. Via [Repl.it](https://repl.it/@TeamUltroid/UltroidStringSession#main.py)
 
-4. Via Telegram bot.
-Use [@SessionStringBot](https://t.me/SessionStringBot).
+4. Via Telegram Bot.
+Use [@SessionGeneratorBot](https://t.me/SessionGeneratorBot).
 
 5. For the ones who deployed locally.
 `bash sessiongen`
