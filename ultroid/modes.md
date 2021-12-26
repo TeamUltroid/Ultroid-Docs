@@ -22,7 +22,7 @@ slug: /modes
 - To Set this : ```.setdb MANAGER True```
 - After Adding Redis Var, Restart Your Bot..
 
-:::note
+:::info
 
 - After setting this, send "/help" to your assistant bot to know about Manager Commands.
 :::

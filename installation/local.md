@@ -6,7 +6,7 @@ sidebar_label: Local Deploy
 ---
 Ultroid can be deployed anywhere!
 
-:::note
+:::tip
 Using a VPS is recommended, as running it on a laptop/phone would require it to be switched on 24/7
 :::
 
@@ -44,7 +44,7 @@ Now paste the edited file (from the text edior), here.
 `CTRL + X`   
 
 * Step 6 : Run the bot.   
-Use `python -m pyUltroid` to start the bot.   
+Use `bash startup` to start the bot.   
 You will recieve a message in your `LOG_CHANNEL` if everything is done right!   
 
 :::note
