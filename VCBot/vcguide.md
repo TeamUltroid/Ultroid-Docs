@@ -23,10 +23,10 @@ To Add `VC_SESSION`, Firstly Go to ur Assistant Bot
 
 • Done Your `VC_SESSION` is added 😉
 
-➤ Note (Not Recommendable 🤧) :
+➤ Note (Not Recommended 🤧) :
 
 -  You Can Use Your Main-ID Too, If You Don't Have Another TG ID.
--  But You Won't Able To Play And Listen At Same Time,
+-  But You Won't Be Able To Play And Listen At Same Time,
 -  Which May Cause Inconvience For You !!
 
 ---
