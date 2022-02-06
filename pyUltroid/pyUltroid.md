@@ -15,7 +15,7 @@ pip3 install -U py-Ultroid
 ```
 
 # Documentation 
-[![Documentation](https://img.shields.io/badge/Documentation-Ultroid-blue)](http://ultroid.tech/)
+[![Documentation](https://img.shields.io/badge/Documentation-Ultroid-blue)](https://ultroid.tech/)
 
 # Usage
 - Create folders named `plugins`, `addons`, `assistant` and `resources`.   
@@ -68,7 +68,7 @@ See more working plugins on [the offical repository](https://github.com/TeamUltr
 
 
 # License
-[![License](https://www.gnu.org/graphics/agplv3-155x51.png)](LICENSE)   
+[![License](https://www.gnu.org/graphics/agplv3-155x51.png)](https://github.com/TeamUltroid/pyUltroid/blob/main/LICENSE)   
 Ultroid is licensed under [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.en.html) v3 or later.
 
 # Credits

@@ -33,7 +33,7 @@ slug: /languages
 | Tamil | `ta`|
 | Turkish | `tr`|
 
-<br>
+<br />
 
 ## Setting Up Langauge
 ### Via Assistant Bot
@@ -51,4 +51,4 @@ slug: /languages
 
 ## Contributing
 - Want to add your language or do any fixes ?
-- >.[Click Here](/docs/contributing/translate)
+- >.[Click Here](/docs/translate)
