@@ -44,9 +44,10 @@ Shortcut :
 
 • Done Your `VC_SESSION` is added 😉
 
-</details>
 
-</ol></details>
+</details>
+</ol>
+</details>
 
 :::note
 Your VC Session should be of Another ID else you won't be able to hear from same account.
