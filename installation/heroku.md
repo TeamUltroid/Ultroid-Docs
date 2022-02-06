@@ -18,6 +18,6 @@ Free account will do the work , While signing up don't worry about `Role` or `Pr
 
 If you have a heroku account by now then click the below button to Start deploying
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FTeamUltroid%2FUltroid)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://deploy.ultroid.tech) 
 
 Now you will be asked for environment variables . [Click here](/docs/variables/env_variables) know more.

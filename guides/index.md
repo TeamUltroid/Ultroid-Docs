@@ -43,8 +43,10 @@ To setup `PMLOGGER`, go to your Assistant bot.
 - Send: `/start`
 - Click: `Settings` >> `PmPermit` >> `Customize PmPermit` >> `PMLOGGER` >> `PMLOGGER ON/OFF`
 
-#### Shortcut:
-- `.setredis PMLOGGER True/False`
+:::info
+Shortcut:
+- `.setdb PMLOGGER True/False`
+:::
 
 • Done Your PMLOGGER is set 😉
 
@@ -60,8 +62,10 @@ To setup `RMBG_API`, go to your Asistant bot.
 
 - Get Your API  👉 [From Here](https://remove.bg/api)
 
-#### Shortcut:
-- `.setredis RMBG_API <API>`
+:::info
+Shortcut:
+- `.setdb RMBG_API <API>`
+:::
 
 • Done Your `Remove.bg API` is set 😉
 
@@ -74,10 +78,16 @@ To Change `INLINE_PIC`, go to your Assistant bot.
 - Click: `Settings` >> `Features` >> `Inline Pic`
 - Send: Media (GIF/PIC)
 
-#### Shortcut:
-- `.setredis INLINE_PIC <Telegraph Link>`
+:::info
+Shortcut:
+- `.setdb INLINE_PIC <Telegraph Link>`
+:::
 
 • Done Your `INLINE_PIC` is set 😉
+
+:::note
+You can set `INLINE_PIC` to `False` to remove media in help menu.
+:::
 
 ---
 
@@ -90,9 +100,8 @@ To Change `HNDLR`, go to your Assistant bot.
 - Click: `Settings` >> `Features` >> `HANDLER`
 - Send: `Handler (Symbol)`
 
-#### Shortcut:
-- `.setredis HNDLR <handler>`
-
-• Done Your `HNDLR` is set 😉
-
+:::info
+Shortcut:
+- `.setdb HNDLR <handler>`
+:::
 ---
