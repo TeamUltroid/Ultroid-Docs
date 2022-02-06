@@ -40,10 +40,9 @@ Shortcut :
 
 - `.setdb VC_SESSION <session>`
 - Restart your bot using `.restart`.
-  :::
+- Done Your `VC_SESSION` is added 😉.
 
-• Done Your `VC_SESSION` is added 😉
-
+:::
 
 </details>
 </ol>
