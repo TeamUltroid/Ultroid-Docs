@@ -9,7 +9,7 @@ slug: /plugins
  You can Give Your Plugins to Us by Following Ways..
 
 ### [@UltroidPlugins](https://t.me/UltroidPlugins)
-   - You can Send Your Plugin File at [@UltroidSupport](https://t.me/ultroidsupport) or [@UltroidSpam](https://t.me/UltroidSpam).
+   - You can Send Your Plugin File at [@UltroidSupportChat](https://t.me/ultroidsupportchat) or [@UltroidSpam](https://t.me/UltroidSpam).
    - Tag any of Admin and wait for it to get listed at [@UltroidPlugins](https://t.me/ultroidplugins).
    - INFO : `@UltroidPlugins is used as official PLUGIN_CHANNEL`
 
